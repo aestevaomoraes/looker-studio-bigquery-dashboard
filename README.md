@@ -43,6 +43,9 @@ The goal was to create a professional dashboard experience as a modern alternati
 ---
 ![Dashboard](screenshots/dashboard-overview_2.JPG)
 ---
+## BigQuery Integration
+
+![Dashboard](screenshots/looker-connection.JPG)
 ![Dashboard](screenshots/bigquery-view.JPG)
 
 ---
