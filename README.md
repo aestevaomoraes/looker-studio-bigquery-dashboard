@@ -42,6 +42,8 @@ The goal was to create a professional dashboard experience as a modern alternati
 ![Dashboard](screenshots/dashboard-overview_1.JPG)
 ---
 ![Dashboard](screenshots/dashboard-overview_2.JPG)
+---
+![Dashboard](screenshots/bigquery-view.JPG)
 
 ---
 
